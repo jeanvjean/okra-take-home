@@ -1,7 +1,7 @@
 ======>READ ME FILE<======
 
 ======> clone the project <=======
-git clone 
+git clone https://github.com/jeanvjean/okra-take-home.git
 
 ======= getting started =========
 run npm install
@@ -12,4 +12,3 @@ run npm install
 question 1 ===> npm run dev:1 <===> debugging
 
 question 2 ===> npm run dev:2 <===> api logic for (login, logout, update wallet, retrieve wallet balance)
-
